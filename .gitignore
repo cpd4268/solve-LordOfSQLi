@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+gremlin/test/pyvenv.cfg
+gremlin/test/bin/python3
+gremlin/test/bin/python
+gremlin/test/bin/pip3.8
+gremlin/test/bin/pip3
+gremlin/test/bin/pip
+gremlin/test/bin/easy_install-3.8
+gremlin/test/bin/easy_install
+gremlin/test/bin/Activate.ps1
+gremlin/test/bin/activate.fish
+gremlin/test/bin/activate.csh
+gremlin/test/bin/activate
+gremlin/.idea/vcs.xml
+gremlin/.idea/modules.xml
+gremlin/.idea/misc.xml
+gremlin/.idea/inspectionProfiles/profiles_settings.xml
+gremlin/.idea/gremlin.iml
+.DS_Store
